@@ -31,15 +31,15 @@
 # Instalação
 ```
 # Primeiro clone o repositorio do Git para seu computador. Execute o comando; 
-git clone https://github.com/SandroFrazaoS/taskList.git
+git clone https://github.com/SandroFrazaoS/appTaskList.git
 
 # Acesse a pasta criado com o comando; 
-cd taskList
+cd appTaskList
 
 # Apos acessar a pasta execute o comando yarn para instalar as dependencias do projeto.  exemplo;
-c:\taskList\yarn
+c:\appTaskList\yarn
 
-# Para start do App execute dentro da pasta taskList o comando;
+# Para start do App execute dentro da pasta appTaskList o comando;
 expo start
 ```
 
